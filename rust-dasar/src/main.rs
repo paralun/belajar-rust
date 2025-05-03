@@ -19,5 +19,8 @@ fn number_test() {
     println!("{}", x);
 
     let y: f32 = 10.5;
-    println!("{}", y)
+    println!("{}", y);
+
+    let z = 70;
+    println!("{}", z);
 }
